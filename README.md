@@ -3,7 +3,7 @@
 <h2> An individual project - developed within 1 h 30min.</h2>
 
  <br>
-  ## Features :
+  # Features :
   <p>--> Add Match Schedule</p>
   <p> --> Add Fav </p>
   <p> --> Delete from Fav </p>
