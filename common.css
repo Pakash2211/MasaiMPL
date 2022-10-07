@@ -9,6 +9,7 @@ table {
 
 a:hover{
      color : #aedfff;
+     cursor: pointer;
 }
 table td,
 table th {
