@@ -6,6 +6,10 @@ table {
   margin-top: 50px;
   text-align: center;
 }
+
+a:hover{
+     color : #aedfff;
+}
 table td,
 table th {
   border: 1px solid #ddd;
